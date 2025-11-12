@@ -1,0 +1,201 @@
+product_id,product_name,category,sub_category,brand,price,cost,stock_quantity,reorder_level,supplier,is_active,margin
+PROD00001,Lamp Basic,Home & Garden,Home & Garden_Sub1,BrandC,1837.07,1170.38,231,54,Supplier2,True,36.29
+PROD00002,Vitamins Deluxe,Health,Health_Sub3,BrandD,20.13,12.82,49,94,Supplier1,True,36.31
+PROD00003,Smart Watch Pro,Electronics,Electronics_Sub2,BrandE,1043.6,664.87,202,22,Supplier4,True,36.29
+PROD00004,Textbook Plus,Books,Books_Sub2,BrandC,615.37,392.05,386,77,Supplier2,True,36.29
+PROD00005,Snack Pack Premium,Food & Beverage,Food & Beverage_Sub3,BrandC,1263.9,805.22,143,31,Supplier4,True,36.29
+PROD00006,Action Figure Standard,Toys,Toys_Sub3,BrandA,1202.95,766.39,253,32,Supplier4,True,36.29
+PROD00007,Basketball Basic,Sports,Sports_Sub3,BrandC,1280.62,815.87,286,33,Supplier1,True,36.29
+PROD00008,Dumbbell Set Deluxe,Sports,Sports_Sub1,BrandF,551.08,351.09,222,93,Supplier3,True,36.29
+PROD00009,Tennis Racket Plus,Sports,Sports_Sub3,BrandB,1083.73,690.44,393,90,Supplier1,True,36.29
+PROD00010,Lipstick Standard,Beauty,Beauty_Sub3,BrandA,1321.77,842.09,199,75,Supplier3,True,36.29
+PROD00011,Shoes Plus,Clothing,Clothing_Sub2,BrandE,1599.71,1019.16,155,77,Supplier4,True,36.29
+PROD00012,Shoes Standard,Clothing,Clothing_Sub3,BrandE,480.42,306.07,227,55,Supplier2,True,36.29
+PROD00013,Dumbbell Set Pro,Sports,Sports_Sub3,BrandD,1021.14,650.56,316,47,Supplier1,True,36.29
+PROD00014,Board Game Basic,Toys,Toys_Sub2,BrandA,308.1,196.29,23,85,Supplier4,True,36.29
+PROD00015,Tennis Racket Standard,Sports,Sports_Sub3,BrandB,537.78,342.62,113,58,Supplier2,True,36.29
+PROD00016,Shampoo Standard,Beauty,Beauty_Sub2,BrandE,666.65,424.72,57,43,Supplier1,True,36.29
+PROD00017,Perfume Pro,Beauty,Beauty_Sub1,BrandE,909.23,579.26,2,86,Supplier1,False,36.29
+PROD00018,Self-Help Premium,Books,Books_Sub2,BrandE,588.57,374.97,218,20,Supplier3,True,36.29
+PROD00019,Vitamins Plus,Health,Health_Sub2,BrandD,526.52,335.44,141,78,Supplier4,True,36.29
+PROD00020,Vitamins Basic,Health,Health_Sub3,BrandA,857.8,546.5,95,42,Supplier1,True,36.29
+PROD00021,Moisturizer Plus,Beauty,Beauty_Sub3,BrandE,1634.13,1041.09,207,60,Supplier3,True,36.29
+PROD00022,Phone Mount Basic,Automotive,Automotive_Sub3,BrandF,1853.13,1180.61,35,92,Supplier1,True,36.29
+PROD00023,Headphones Pro,Electronics,Electronics_Sub2,BrandE,1208.33,769.82,110,47,Supplier3,True,36.29
+PROD00024,Curtains Deluxe,Home & Garden,Home & Garden_Sub3,BrandF,1326.4,845.04,0,32,Supplier2,True,36.29
+PROD00025,Air Freshener Premium,Automotive,Automotive_Sub3,BrandA,1535.18,978.05,13,41,Supplier3,True,36.29
+PROD00026,Chocolate Standard,Food & Beverage,Food & Beverage_Sub1,BrandA,1983.12,1263.43,452,23,Supplier1,False,36.29
+PROD00027,Rug Premium,Home & Garden,Home & Garden_Sub2,BrandA,1926.59,1227.41,47,67,Supplier1,False,36.29
+PROD00028,RC Car Basic,Toys,Toys_Sub1,BrandE,597.46,380.64,290,94,Supplier1,True,36.29
+PROD00029,Cookbook Basic,Books,Books_Sub3,BrandC,82.0,52.24,182,63,Supplier1,True,36.29
+PROD00030,Vitamins Basic,Health,Health_Sub3,BrandE,453.0,288.6,475,93,Supplier4,True,36.29
+PROD00031,Phone Mount Pro,Automotive,Automotive_Sub3,BrandD,1591.96,1014.22,252,29,Supplier4,True,36.29
+PROD00032,Smart Watch Pro,Electronics,Electronics_Sub3,BrandC,1224.54,780.14,75,96,Supplier2,True,36.29
+PROD00033,Curtains Basic,Home & Garden,Home & Garden_Sub2,BrandA,985.89,628.1,466,32,Supplier4,True,36.29
+PROD00034,Jeans Standard,Clothing,Clothing_Sub1,BrandB,1627.43,1036.82,38,44,Supplier3,True,36.29
+PROD00035,Blood Pressure Monitor Plus,Health,Health_Sub1,BrandA,1129.45,719.56,482,53,Supplier1,False,36.29
+PROD00036,Smartphone Deluxe,Electronics,Electronics_Sub3,BrandA,1871.91,1192.58,241,83,Supplier3,True,36.29
+PROD00037,Dash Cam Premium,Automotive,Automotive_Sub2,BrandB,1435.53,914.56,130,89,Supplier1,True,36.29
+PROD00038,Doll Pro,Toys,Toys_Sub1,BrandF,1837.1,1170.4,484,43,Supplier4,True,36.29
+PROD00039,Kitchen Set Pro,Home & Garden,Home & Garden_Sub3,BrandB,1834.53,1168.76,198,95,Supplier3,True,36.29
+PROD00040,Jacket Premium,Clothing,Clothing_Sub2,BrandF,195.67,124.66,56,35,Supplier4,True,36.29
+PROD00041,Camera Pro,Electronics,Electronics_Sub3,BrandA,1799.44,1146.41,341,36,Supplier2,True,36.29
+PROD00042,Pain Relief Plus,Health,Health_Sub1,BrandA,372.4,237.25,182,94,Supplier4,False,36.29
+PROD00043,Hand Sanitizer Plus,Health,Health_Sub1,BrandD,1578.18,1005.45,113,34,Supplier3,True,36.29
+PROD00044,Face Mask Deluxe,Beauty,Beauty_Sub3,BrandF,1378.17,878.02,358,97,Supplier1,True,36.29
+PROD00045,Smart Watch Basic,Electronics,Electronics_Sub2,BrandF,224.4,142.96,390,71,Supplier1,True,36.29
+PROD00046,Dumbbell Set Pro,Sports,Sports_Sub2,BrandB,187.22,119.28,72,26,Supplier2,True,36.29
+PROD00047,Action Figure Standard,Toys,Toys_Sub1,BrandD,1574.19,1002.9,397,33,Supplier1,True,36.29
+PROD00048,Dumbbell Set Basic,Sports,Sports_Sub2,BrandA,1754.12,1117.54,359,29,Supplier4,True,36.29
+PROD00049,Dress Pro,Clothing,Clothing_Sub3,BrandB,553.62,352.71,288,61,Supplier3,True,36.29
+PROD00050,Bike Premium,Sports,Sports_Sub1,BrandD,32.99,21.02,348,62,Supplier1,True,36.28
+PROD00051,Board Game Basic,Toys,Toys_Sub2,BrandC,687.56,438.04,221,96,Supplier2,True,36.29
+PROD00052,Hand Sanitizer Standard,Health,Health_Sub2,BrandE,1311.18,835.34,249,53,Supplier2,True,36.29
+PROD00053,Blood Pressure Monitor Pro,Health,Health_Sub2,BrandB,1333.66,849.66,336,22,Supplier3,False,36.29
+PROD00054,Blood Pressure Monitor Deluxe,Health,Health_Sub3,BrandD,1816.33,1157.17,91,60,Supplier2,True,36.29
+PROD00055,Air Freshener Deluxe,Automotive,Automotive_Sub2,BrandD,1213.59,773.17,449,96,Supplier3,True,36.29
+PROD00056,Fiction Novel Pro,Books,Books_Sub2,BrandC,995.78,634.4,268,100,Supplier4,True,36.29
+PROD00057,Jacket Premium,Clothing,Clothing_Sub3,BrandF,756.9,482.21,265,60,Supplier1,True,36.29
+PROD00058,Kitchen Set Deluxe,Home & Garden,Home & Garden_Sub1,BrandE,1615.21,1029.04,490,69,Supplier1,True,36.29
+PROD00059,Jacket Deluxe,Clothing,Clothing_Sub1,BrandF,1084.89,691.17,222,21,Supplier2,True,36.29
+PROD00060,Bike Standard,Sports,Sports_Sub1,BrandC,1617.75,1030.66,204,90,Supplier4,True,36.29
+PROD00061,Energy Drink Pro,Food & Beverage,Food & Beverage_Sub1,BrandD,745.46,474.93,80,83,Supplier4,True,36.29
+PROD00062,Running Shoes Plus,Sports,Sports_Sub1,BrandC,1645.5,1048.33,254,36,Supplier2,True,36.29
+PROD00063,Sweater Plus,Clothing,Clothing_Sub2,BrandB,554.3,353.14,492,45,Supplier3,True,36.29
+PROD00064,Rug Basic,Home & Garden,Home & Garden_Sub2,BrandA,11.37,7.24,164,86,Supplier3,True,36.32
+PROD00065,Thermometer Pro,Health,Health_Sub2,BrandB,224.92,143.29,489,27,Supplier3,True,36.29
+PROD00066,Sofa Basic,Home & Garden,Home & Garden_Sub2,BrandF,1795.22,1143.72,169,45,Supplier1,True,36.29
+PROD00067,Textbook Pro,Books,Books_Sub3,BrandC,749.22,477.32,211,22,Supplier3,True,36.29
+PROD00068,Pain Relief Plus,Health,Health_Sub2,BrandF,307.33,195.8,76,36,Supplier1,True,36.29
+PROD00069,Smart Watch Pro,Electronics,Electronics_Sub1,BrandE,549.03,349.78,132,48,Supplier1,True,36.29
+PROD00070,Basketball Basic,Sports,Sports_Sub1,BrandC,1725.62,1099.38,413,88,Supplier4,True,36.29
+PROD00071,Floor Mats Premium,Automotive,Automotive_Sub3,BrandB,1365.02,869.64,325,79,Supplier4,True,36.29
+PROD00072,Pain Relief Plus,Health,Health_Sub3,BrandC,99.81,63.59,76,32,Supplier1,True,36.29
+PROD00073,LEGO Set Plus,Toys,Toys_Sub1,BrandA,441.85,281.5,318,92,Supplier1,True,36.29
+PROD00074,Car Wax Basic,Automotive,Automotive_Sub1,BrandA,1610.0,1025.72,290,69,Supplier2,True,36.29
+PROD00075,Yoga Mat Deluxe,Sports,Sports_Sub2,BrandD,1043.44,664.77,315,75,Supplier2,True,36.29
+PROD00076,Shampoo Standard,Beauty,Beauty_Sub2,BrandD,1945.08,1239.19,397,64,Supplier2,True,36.29
+PROD00077,Board Game Basic,Toys,Toys_Sub2,BrandE,1050.13,669.03,272,38,Supplier2,True,36.29
+PROD00078,Energy Drink Plus,Food & Beverage,Food & Beverage_Sub2,BrandC,597.9,380.92,95,36,Supplier3,False,36.29
+PROD00079,Self-Help Pro,Books,Books_Sub1,BrandD,1940.29,1236.14,347,91,Supplier2,True,36.29
+PROD00080,Car Wax Premium,Automotive,Automotive_Sub1,BrandB,511.01,325.56,187,49,Supplier2,True,36.29
+PROD00081,Phone Mount Plus,Automotive,Automotive_Sub1,BrandC,888.35,565.96,242,75,Supplier4,True,36.29
+PROD00082,RC Car Pro,Toys,Toys_Sub3,BrandB,1085.27,691.42,496,83,Supplier3,True,36.29
+PROD00083,Nail Polish Basic,Beauty,Beauty_Sub3,BrandD,167.27,106.57,340,36,Supplier1,True,36.29
+PROD00084,Protein Bar Plus,Food & Beverage,Food & Beverage_Sub1,BrandF,1685.59,1073.88,110,69,Supplier3,True,36.29
+PROD00085,First Aid Kit Pro,Health,Health_Sub2,BrandF,281.17,179.13,65,32,Supplier1,True,36.29
+PROD00086,Protein Bar Basic,Food & Beverage,Food & Beverage_Sub1,BrandC,1582.8,1008.39,134,48,Supplier1,True,36.29
+PROD00087,T-Shirt Deluxe,Clothing,Clothing_Sub1,BrandC,1844.73,1175.26,182,38,Supplier4,True,36.29
+PROD00088,Dumbbell Set Basic,Sports,Sports_Sub2,BrandC,549.73,350.23,104,47,Supplier1,True,36.29
+PROD00089,Pain Relief Deluxe,Health,Health_Sub1,BrandA,1370.22,872.96,185,49,Supplier2,True,36.29
+PROD00090,Self-Help Standard,Books,Books_Sub2,BrandB,1248.22,795.23,431,98,Supplier4,True,36.29
+PROD00091,Laptop Pro,Electronics,Electronics_Sub1,BrandF,419.98,267.57,324,58,Supplier2,True,36.29
+PROD00092,Dumbbell Set Standard,Sports,Sports_Sub3,BrandD,734.95,468.23,364,89,Supplier3,True,36.29
+PROD00093,Tool Kit Deluxe,Automotive,Automotive_Sub3,BrandA,1469.99,936.52,268,84,Supplier1,True,36.29
+PROD00094,Snack Pack Deluxe,Food & Beverage,Food & Beverage_Sub1,BrandF,1991.99,1269.08,414,36,Supplier1,True,36.29
+PROD00095,Face Mask Standard,Beauty,Beauty_Sub1,BrandD,1217.94,775.94,111,78,Supplier4,True,36.29
+PROD00096,Travel Guide Plus,Books,Books_Sub2,BrandC,1170.91,745.98,23,46,Supplier2,True,36.29
+PROD00097,Jeans Plus,Clothing,Clothing_Sub1,BrandB,1743.18,1110.57,164,53,Supplier1,True,36.29
+PROD00098,Coffee Premium,Food & Beverage,Food & Beverage_Sub2,BrandB,1374.67,875.79,159,87,Supplier2,True,36.29
+PROD00099,LEGO Set Deluxe,Toys,Toys_Sub2,BrandD,948.48,604.27,439,83,Supplier3,True,36.29
+PROD00100,Tablet Pro,Electronics,Electronics_Sub1,BrandD,776.14,494.47,440,65,Supplier4,True,36.29
+PROD00101,Laptop Basic,Electronics,Electronics_Sub2,BrandD,1925.09,1226.46,71,40,Supplier2,True,36.29
+PROD00102,Jeans Basic,Clothing,Clothing_Sub3,BrandE,262.85,167.46,297,47,Supplier4,True,36.29
+PROD00103,Floor Mats Deluxe,Automotive,Automotive_Sub3,BrandC,1527.49,973.15,68,74,Supplier3,True,36.29
+PROD00104,Travel Guide Plus,Books,Books_Sub1,BrandA,1813.56,1155.4,369,66,Supplier4,False,36.29
+PROD00105,First Aid Kit Basic,Health,Health_Sub1,BrandD,807.76,514.62,494,70,Supplier1,True,36.29
+PROD00106,Bike Premium,Sports,Sports_Sub1,BrandA,371.59,236.74,129,53,Supplier2,True,36.29
+PROD00107,Face Mask Basic,Beauty,Beauty_Sub2,BrandE,1757.78,1119.87,287,31,Supplier1,True,36.29
+PROD00108,Tool Kit Premium,Automotive,Automotive_Sub2,BrandC,205.18,130.72,495,53,Supplier2,False,36.29
+PROD00109,T-Shirt Deluxe,Clothing,Clothing_Sub3,BrandB,940.69,599.31,349,31,Supplier4,True,36.29
+PROD00110,Headphones Standard,Electronics,Electronics_Sub3,BrandF,1876.55,1195.53,404,68,Supplier3,True,36.29
+PROD00111,Car Wax Pro,Automotive,Automotive_Sub3,BrandD,1455.96,927.58,296,64,Supplier3,False,36.29
+PROD00112,Tool Kit Basic,Automotive,Automotive_Sub2,BrandE,1864.78,1188.04,85,29,Supplier2,True,36.29
+PROD00113,Snack Pack Plus,Food & Beverage,Food & Beverage_Sub1,BrandB,1528.49,973.79,209,44,Supplier4,True,36.29
+PROD00114,Face Mask Deluxe,Beauty,Beauty_Sub1,BrandD,805.5,513.18,218,86,Supplier4,True,36.29
+PROD00115,Tea Premium,Food & Beverage,Food & Beverage_Sub3,BrandB,728.15,463.9,286,74,Supplier1,True,36.29
+PROD00116,Self-Help Pro,Books,Books_Sub2,BrandC,1996.86,1272.18,37,94,Supplier3,True,36.29
+PROD00117,Travel Guide Pro,Books,Books_Sub3,BrandF,1093.4,696.6,152,42,Supplier4,True,36.29
+PROD00118,Chocolate Plus,Food & Beverage,Food & Beverage_Sub1,BrandE,1217.79,775.84,347,82,Supplier4,True,36.29
+PROD00119,Dress Pro,Clothing,Clothing_Sub1,BrandA,159.24,101.45,114,98,Supplier1,True,36.29
+PROD00120,Shampoo Standard,Beauty,Beauty_Sub1,BrandC,573.29,365.24,383,45,Supplier4,True,36.29
+PROD00121,Tennis Racket Standard,Sports,Sports_Sub1,BrandA,530.48,337.96,299,97,Supplier1,True,36.29
+PROD00122,T-Shirt Basic,Clothing,Clothing_Sub3,BrandD,203.53,129.67,478,69,Supplier3,True,36.29
+PROD00123,Energy Drink Standard,Food & Beverage,Food & Beverage_Sub1,BrandC,1680.1,1070.38,409,97,Supplier1,True,36.29
+PROD00124,Perfume Plus,Beauty,Beauty_Sub3,BrandF,1845.05,1175.47,195,78,Supplier4,True,36.29
+PROD00125,Energy Drink Plus,Food & Beverage,Food & Beverage_Sub2,BrandD,371.2,236.49,18,94,Supplier4,True,36.29
+PROD00126,T-Shirt Plus,Clothing,Clothing_Sub1,BrandD,370.6,236.11,156,48,Supplier2,True,36.29
+PROD00127,Headphones Standard,Electronics,Electronics_Sub2,BrandE,1136.15,723.83,81,54,Supplier3,True,36.29
+PROD00128,Thermometer Pro,Health,Health_Sub3,BrandF,734.43,467.9,468,76,Supplier2,False,36.29
+PROD00129,Plant Pot Deluxe,Home & Garden,Home & Garden_Sub1,BrandA,240.11,152.97,171,59,Supplier1,True,36.29
+PROD00130,Energy Drink Deluxe,Food & Beverage,Food & Beverage_Sub1,BrandF,1618.67,1031.24,373,72,Supplier1,True,36.29
+PROD00131,Thermometer Standard,Health,Health_Sub2,BrandD,1021.69,650.91,352,88,Supplier4,True,36.29
+PROD00132,T-Shirt Standard,Clothing,Clothing_Sub2,BrandF,1213.85,773.33,102,64,Supplier4,True,36.29
+PROD00133,Snack Pack Premium,Food & Beverage,Food & Beverage_Sub1,BrandF,1832.45,1167.44,437,72,Supplier3,True,36.29
+PROD00134,Tennis Racket Pro,Sports,Sports_Sub1,BrandD,409.52,260.9,250,70,Supplier4,False,36.29
+PROD00135,Puzzle Standard,Toys,Toys_Sub2,BrandC,1473.35,938.66,265,76,Supplier4,True,36.29
+PROD00136,LEGO Set Premium,Toys,Toys_Sub3,BrandF,537.5,342.44,226,30,Supplier3,True,36.29
+PROD00137,Nail Polish Basic,Beauty,Beauty_Sub1,BrandC,1708.8,1088.66,464,52,Supplier3,False,36.29
+PROD00138,Camera Basic,Electronics,Electronics_Sub1,BrandC,56.8,36.19,186,50,Supplier4,True,36.29
+PROD00139,Chocolate Standard,Food & Beverage,Food & Beverage_Sub3,BrandA,1122.72,715.28,139,87,Supplier4,True,36.29
+PROD00140,Lipstick Basic,Beauty,Beauty_Sub3,BrandC,672.2,428.25,13,50,Supplier4,True,36.29
+PROD00141,Shampoo Standard,Beauty,Beauty_Sub1,BrandD,1054.7,671.94,191,49,Supplier2,True,36.29
+PROD00142,Textbook Standard,Books,Books_Sub2,BrandD,1164.89,742.14,95,97,Supplier1,True,36.29
+PROD00143,Cookbook Standard,Books,Books_Sub2,BrandC,1952.28,1243.78,268,25,Supplier3,True,36.29
+PROD00144,Tablet Plus,Electronics,Electronics_Sub2,BrandB,120.17,76.56,411,55,Supplier1,True,36.29
+PROD00145,Moisturizer Basic,Beauty,Beauty_Sub2,BrandB,361.59,230.37,361,52,Supplier1,True,36.29
+PROD00146,Moisturizer Pro,Beauty,Beauty_Sub3,BrandB,821.15,523.15,264,49,Supplier4,True,36.29
+PROD00147,Thermometer Plus,Health,Health_Sub1,BrandC,1849.81,1178.5,239,55,Supplier4,True,36.29
+PROD00148,Basketball Deluxe,Sports,Sports_Sub2,BrandF,84.31,53.71,111,37,Supplier4,False,36.29
+PROD00149,Travel Guide Standard,Books,Books_Sub2,BrandC,231.8,147.68,304,38,Supplier1,True,36.29
+PROD00150,Blood Pressure Monitor Pro,Health,Health_Sub1,BrandA,52.09,33.19,321,82,Supplier4,True,36.28
+PROD00151,Tablet Standard,Electronics,Electronics_Sub1,BrandF,1748.97,1114.25,167,34,Supplier4,True,36.29
+PROD00152,Bike Premium,Sports,Sports_Sub3,BrandD,956.8,609.57,324,80,Supplier2,True,36.29
+PROD00153,Floor Mats Plus,Automotive,Automotive_Sub1,BrandD,183.52,116.92,128,47,Supplier3,False,36.29
+PROD00154,Energy Drink Premium,Food & Beverage,Food & Beverage_Sub2,BrandF,1893.5,1206.33,270,95,Supplier2,True,36.29
+PROD00155,Moisturizer Premium,Beauty,Beauty_Sub3,BrandF,1375.65,876.42,209,24,Supplier2,True,36.29
+PROD00156,Coffee Basic,Food & Beverage,Food & Beverage_Sub2,BrandE,946.04,602.71,221,80,Supplier1,True,36.29
+PROD00157,Coffee Basic,Food & Beverage,Food & Beverage_Sub3,BrandE,1363.6,868.74,61,40,Supplier2,True,36.29
+PROD00158,Textbook Deluxe,Books,Books_Sub1,BrandB,1144.27,729.0,65,44,Supplier4,True,36.29
+PROD00159,Protein Bar Premium,Food & Beverage,Food & Beverage_Sub3,BrandF,1180.62,752.16,494,58,Supplier1,True,36.29
+PROD00160,Biography Deluxe,Books,Books_Sub2,BrandE,897.33,571.68,171,84,Supplier1,True,36.29
+PROD00161,Snack Pack Pro,Food & Beverage,Food & Beverage_Sub1,BrandF,1607.26,1023.97,207,66,Supplier1,True,36.29
+PROD00162,Tablet Premium,Electronics,Electronics_Sub1,BrandD,81.27,51.78,232,87,Supplier2,True,36.29
+PROD00163,Tool Kit Basic,Automotive,Automotive_Sub2,BrandD,1066.51,679.46,137,85,Supplier2,True,36.29
+PROD00164,Smartphone Premium,Electronics,Electronics_Sub3,BrandC,930.26,592.66,221,62,Supplier3,True,36.29
+PROD00165,Headphones Premium,Electronics,Electronics_Sub3,BrandB,963.63,613.92,263,27,Supplier1,True,36.29
+PROD00166,Fiction Novel Deluxe,Books,Books_Sub3,BrandE,497.27,316.81,339,69,Supplier3,True,36.29
+PROD00167,Textbook Pro,Books,Books_Sub2,BrandD,1490.97,949.88,166,99,Supplier3,True,36.29
+PROD00168,Dumbbell Set Pro,Sports,Sports_Sub3,BrandE,1321.39,841.85,461,60,Supplier2,True,36.29
+PROD00169,Smartphone Plus,Electronics,Electronics_Sub3,BrandA,927.72,591.04,454,67,Supplier4,True,36.29
+PROD00170,Camera Premium,Electronics,Electronics_Sub1,BrandD,1242.43,791.54,399,26,Supplier1,True,36.29
+PROD00171,Lipstick Plus,Beauty,Beauty_Sub3,BrandA,1798.88,1146.05,310,96,Supplier4,True,36.29
+PROD00172,Board Game Plus,Toys,Toys_Sub1,BrandE,1646.82,1049.18,84,51,Supplier3,True,36.29
+PROD00173,Puzzle Premium,Toys,Toys_Sub1,BrandB,68.41,43.58,305,95,Supplier1,True,36.3
+PROD00174,Shampoo Pro,Beauty,Beauty_Sub1,BrandF,931.19,593.25,473,40,Supplier1,True,36.29
+PROD00175,Jeans Basic,Clothing,Clothing_Sub3,BrandC,437.85,278.95,285,61,Supplier1,True,36.29
+PROD00176,Headphones Plus,Electronics,Electronics_Sub1,BrandA,1331.96,848.58,272,37,Supplier1,True,36.29
+PROD00177,LEGO Set Plus,Toys,Toys_Sub1,BrandC,1061.41,676.22,63,24,Supplier2,True,36.29
+PROD00178,Headphones Premium,Electronics,Electronics_Sub3,BrandC,1420.54,905.01,111,86,Supplier3,True,36.29
+PROD00179,Tea Standard,Food & Beverage,Food & Beverage_Sub2,BrandB,1177.96,750.47,269,39,Supplier3,True,36.29
+PROD00180,Nail Polish Basic,Beauty,Beauty_Sub2,BrandB,1057.27,673.58,53,67,Supplier1,True,36.29
+PROD00181,Floor Mats Deluxe,Automotive,Automotive_Sub1,BrandF,383.71,244.46,263,37,Supplier4,True,36.29
+PROD00182,Yoga Mat Standard,Sports,Sports_Sub2,BrandA,1013.84,645.91,94,66,Supplier3,True,36.29
+PROD00183,Energy Drink Deluxe,Food & Beverage,Food & Beverage_Sub3,BrandE,1326.15,844.88,40,63,Supplier3,True,36.29
+PROD00184,Vitamins Plus,Health,Health_Sub1,BrandE,256.63,163.5,216,99,Supplier3,True,36.29
+PROD00185,Dumbbell Set Basic,Sports,Sports_Sub3,BrandD,781.48,497.87,345,63,Supplier1,True,36.29
+PROD00186,Bike Standard,Sports,Sports_Sub2,BrandE,1481.51,943.86,453,61,Supplier1,True,36.29
+PROD00187,Dash Cam Plus,Automotive,Automotive_Sub3,BrandC,583.33,371.63,364,57,Supplier1,True,36.29
+PROD00188,Self-Help Pro,Books,Books_Sub2,BrandD,1195.36,761.55,184,64,Supplier3,True,36.29
+PROD00189,Hand Sanitizer Plus,Health,Health_Sub2,BrandC,1021.52,650.8,39,27,Supplier2,True,36.29
+PROD00190,Plant Pot Deluxe,Home & Garden,Home & Garden_Sub2,BrandC,899.59,573.12,428,77,Supplier4,True,36.29
+PROD00191,Protein Bar Premium,Food & Beverage,Food & Beverage_Sub3,BrandB,746.18,475.39,450,35,Supplier2,True,36.29
+PROD00192,Travel Guide Deluxe,Books,Books_Sub1,BrandC,1475.95,940.32,415,51,Supplier4,True,36.29
+PROD00193,Thermometer Standard,Health,Health_Sub1,BrandA,991.99,631.99,363,56,Supplier3,True,36.29
+PROD00194,Face Mask Premium,Beauty,Beauty_Sub3,BrandC,1142.69,728.0,377,73,Supplier4,True,36.29
+PROD00195,Basketball Pro,Sports,Sports_Sub2,BrandD,273.82,174.45,347,92,Supplier3,True,36.29
+PROD00196,RC Car Deluxe,Toys,Toys_Sub1,BrandB,666.49,424.62,300,48,Supplier3,True,36.29
+PROD00197,Smartphone Deluxe,Electronics,Electronics_Sub2,BrandD,534.38,340.45,375,22,Supplier4,False,36.29
+PROD00198,Running Shoes Plus,Sports,Sports_Sub1,BrandD,303.58,193.41,247,70,Supplier3,True,36.29
+PROD00199,Fiction Novel Premium,Books,Books_Sub2,BrandA,1389.93,885.51,103,55,Supplier1,True,36.29
+PROD00200,Energy Drink Pro,Food & Beverage,Food & Beverage_Sub1,BrandC,573.01,365.06,186,63,Supplier2,True,36.29
